@@ -1,0 +1,7 @@
+[24-Jun-2019 16:51:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home2/salaoluciabo/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[24-Jun-2019 17:47:22 UTC] PHP Parse error:  syntax error, unexpected '?' in /home2/salaoluciabo/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[24-Jun-2019 17:47:53 UTC] PHP Parse error:  syntax error, unexpected '?' in /home2/salaoluciabo/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[24-Jun-2019 17:49:05 UTC] PHP Parse error:  syntax error, unexpected '?' in /home2/salaoluciabo/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[24-Jun-2019 17:49:43 UTC] PHP Parse error:  syntax error, unexpected '?' in /home2/salaoluciabo/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[24-Jun-2019 17:49:45 UTC] PHP Parse error:  syntax error, unexpected '?' in /home2/salaoluciabo/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[24-Jun-2019 17:51:41 UTC] PHP Parse error:  syntax error, unexpected '?' in /home2/salaoluciabo/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500

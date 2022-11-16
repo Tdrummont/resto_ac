@@ -1,0 +1,9 @@
+[19-Jun-2019 15:42:12 America/Sao_Paulo] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home2/gtrainer/public_html/luciaborges/app/Models/Pontuacao.php on line 7
+[20-Jun-2019 19:09:55 America/Sao_Paulo] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home2/gtrainer/public_html/luciaborges/app/Models/FichaResposta.php on line 7
+[20-Jun-2019 22:15:20 America/Sao_Paulo] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home2/gtrainer/public_html/luciaborges/app/Models/Ficha.php on line 7
+[21-Jun-2019 07:13:11 America/Sao_Paulo] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home2/gtrainer/public_html/luciaborges/app/Models/FichaAlternativa.php on line 7
+[21-Jun-2019 09:41:43 America/Sao_Paulo] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home2/gtrainer/public_html/luciaborges/app/Models/Servico.php on line 7
+[21-Jun-2019 09:42:04 America/Sao_Paulo] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home2/gtrainer/public_html/luciaborges/app/Models/Bonificacao.php on line 7
+[21-Jun-2019 22:18:31 America/Sao_Paulo] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home2/gtrainer/public_html/luciaborges/app/Models/Cliente.php on line 7
+[21-Jun-2019 23:07:11 America/Sao_Paulo] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home2/gtrainer/public_html/luciaborges/app/Models/CartaoFidelidade.php on line 7
+[22-Jun-2019 17:34:33 America/Sao_Paulo] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home2/gtrainer/public_html/luciaborges/app/Models/Regras.php on line 7

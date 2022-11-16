@@ -1,0 +1,3 @@
+[20-Jun-2019 02:14:05 America/Sao_Paulo] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home2/gtrainer/public_html/luciaborges/app/Providers/BroadcastServiceProvider.php on line 8
+[20-Jun-2019 04:37:46 America/Sao_Paulo] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home2/gtrainer/public_html/luciaborges/app/Providers/RouteServiceProvider.php on line 8
+[20-Jun-2019 07:48:53 America/Sao_Paulo] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home2/gtrainer/public_html/luciaborges/app/Providers/EventServiceProvider.php on line 10

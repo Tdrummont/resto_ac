@@ -1,0 +1,8 @@
+[18-Jun-2019 13:40:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/gtrainer/public_html/luciaborges/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/gtrainer/public_html/luciaborges/bootstrap/app.php on line 14
+[23-Jun-2019 17:30:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/gtrainer/public_html/luciaborges/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/gtrainer/public_html/luciaborges/bootstrap/app.php on line 14

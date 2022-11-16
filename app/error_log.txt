@@ -1,0 +1,2 @@
+[17-Jun-2019 15:40:08 America/Sao_Paulo] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home2/gtrainer/public_html/luciaborges/app/User.php on line 9
+[18-Jun-2019 12:00:03 America/Sao_Paulo] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home2/gtrainer/public_html/luciaborges/app/Cliente.php on line 7

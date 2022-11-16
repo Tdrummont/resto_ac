@@ -1,0 +1,5 @@
+[19-Jun-2019 18:33:02 America/Sao_Paulo] PHP Notice:  Undefined variable: factory in /home2/gtrainer/public_html/luciaborges/database/factories/UserFactory.php on line 19
+[19-Jun-2019 18:33:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home2/gtrainer/public_html/luciaborges/database/factories/UserFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/gtrainer/public_html/luciaborges/database/factories/UserFactory.php on line 19

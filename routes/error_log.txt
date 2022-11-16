@@ -1,0 +1,16 @@
+[16-Jun-2019 02:53:32 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home2/gtrainer/public_html/luciaborges/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/gtrainer/public_html/luciaborges/routes/web.php on line 14
+[16-Jun-2019 16:33:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home2/gtrainer/public_html/luciaborges/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/gtrainer/public_html/luciaborges/routes/api.php on line 16
+[17-Jun-2019 22:23:59 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home2/gtrainer/public_html/luciaborges/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/gtrainer/public_html/luciaborges/routes/channels.php on line 14
+[18-Jun-2019 04:49:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home2/gtrainer/public_html/luciaborges/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/gtrainer/public_html/luciaborges/routes/console.php on line 16

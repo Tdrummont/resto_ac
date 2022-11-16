@@ -1,0 +1,1 @@
+[23-Jun-2019 09:27:45 America/Sao_Paulo] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/gtrainer/public_html/luciaborges/app/Exceptions/Handler.php on line 8

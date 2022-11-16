@@ -1,0 +1,48 @@
+[15-Jun-2019 13:06:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/gtrainer/public_html/luciaborges/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/gtrainer/public_html/luciaborges/config/broadcasting.php on line 18
+[15-Jun-2019 14:43:07 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/gtrainer/public_html/luciaborges/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home2/gtrainer/public_html/luciaborges/config/hashing.php on line 32
+[15-Jun-2019 17:57:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home2/gtrainer/public_html/luciaborges/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/gtrainer/public_html/luciaborges/config/view.php on line 17
+[15-Jun-2019 23:34:37 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/gtrainer/public_html/luciaborges/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/gtrainer/public_html/luciaborges/config/database.php on line 18
+[16-Jun-2019 03:42:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/gtrainer/public_html/luciaborges/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/gtrainer/public_html/luciaborges/config/mail.php on line 19
+[16-Jun-2019 21:19:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/gtrainer/public_html/luciaborges/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/gtrainer/public_html/luciaborges/config/session.php on line 21
+[17-Jun-2019 05:12:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/gtrainer/public_html/luciaborges/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/gtrainer/public_html/luciaborges/config/app.php on line 16
+[17-Jun-2019 05:13:24 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/gtrainer/public_html/luciaborges/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/gtrainer/public_html/luciaborges/config/logging.php on line 19
+[17-Jun-2019 06:00:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/gtrainer/public_html/luciaborges/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/gtrainer/public_html/luciaborges/config/queue.php on line 16
+[17-Jun-2019 06:01:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/gtrainer/public_html/luciaborges/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/gtrainer/public_html/luciaborges/config/services.php on line 18
+[18-Jun-2019 10:21:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/gtrainer/public_html/luciaborges/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/gtrainer/public_html/luciaborges/config/filesystems.php on line 16
+[18-Jun-2019 16:05:10 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/gtrainer/public_html/luciaborges/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/gtrainer/public_html/luciaborges/config/cache.php on line 21

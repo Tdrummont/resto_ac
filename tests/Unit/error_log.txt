@@ -1,0 +1,1 @@
+[21-Jun-2019 10:31:02 America/Sao_Paulo] PHP Fatal error:  Class 'Tests\TestCase' not found in /home2/gtrainer/public_html/luciaborges/tests/Unit/ExampleTest.php on line 8

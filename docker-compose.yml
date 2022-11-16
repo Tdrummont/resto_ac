@@ -1,0 +1,53 @@
+version: "3.3"
+services:
+  app:
+    build:
+      args:
+        user: ${USUARIO}
+        uid: 1000
+      context: ./
+      dockerfile: ./docker/Dockerfile
+    image: php74
+    container_name: ${APP_NAME}-app
+    restart: unless-stopped
+    working_dir: /var/www
+    volumes:
+      - ./:/var/www
+      - ./docker/docker-compose/php/xdebug.ini:/usr/local/etc/php/conf.d/docker-php-ext-xdebug.ini
+      - ./docker/docker-compose/php/php.ini:/usr/local/etc/php/conf.d/php.ini
+    networks:
+      - dev
+
+  nginx:
+    image: nginx:alpine
+    container_name: ${APP_NAME}-nginx
+    restart: unless-stopped
+    ports:
+      - "8001:8000"
+    volumes:
+      - ./:/var/www
+      - ./docker/docker-compose/nginx:/etc/nginx/conf.d
+    networks:
+      - dev
+    links:
+      - app
+
+  db:
+    image: mysql:5.7
+    restart: always
+    #platform: linux/x86_64
+    command: --default-authentication-plugin=mysql_native_password
+    container_name: ${APP_NAME}-db
+    environment:
+      MYSQL_DATABASE: ${DB_DATABASE}
+      MYSQL_ROOT_PASSWORD: 123456
+    ports:
+      - "${DB_PORT}:${DB_PORT}"
+    volumes:
+      - /home/${USUARIO}/mysql:/var/lib/mysql
+    networks:
+      - dev    
+
+networks:
+  dev:
+    driver: bridge

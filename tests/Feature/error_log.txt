@@ -1,0 +1,2 @@
+[21-Jun-2019 09:25:33 America/Sao_Paulo] PHP Fatal error:  Class 'Tests\TestCase' not found in /home2/gtrainer/public_html/luciaborges/tests/Feature/ExampleTest.php on line 8
+[23-Jun-2019 09:28:16 America/Sao_Paulo] PHP Fatal error:  Class 'Tests\TestCase' not found in /home2/gtrainer/public_html/luciaborges/tests/Feature/ExampleTest.php on line 8
